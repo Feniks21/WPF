@@ -1,0 +1,52 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+
+
+
+    <sys:String x:Key="Icon.Exclamation">&#xE900;</sys:String>
+    <sys:String x:Key="Icon.Exit-2">&#xE901;</sys:String>
+    <sys:String x:Key="Icon.Exit">&#xE902;</sys:String>
+    <sys:String x:Key="Icon.Pip">&#xE903;</sys:String>
+    <sys:String x:Key="Icon.Frame.Left">&#xE904;</sys:String>
+    <sys:String x:Key="Icon.Frame.Right">&#xE905;</sys:String>
+    <sys:String x:Key="Icon.FramePoint">&#xE906;</sys:String>
+    <sys:String x:Key="Icon.Profile-Login">&#xE907;</sys:String>
+    <sys:String x:Key="Icon.FrameTV">&#xE908;</sys:String>
+    <sys:String x:Key="Icon.Subscriptions">&#xE909;</sys:String>
+    <sys:String x:Key="Icon.NavViewPaneButton">&#xE90a;</sys:String>
+    <sys:String x:Key="Icon.Heart.UnFill">&#xE90b;</sys:String>
+    <sys:String x:Key="Icon.Heart.Fill">&#xE90c;</sys:String>
+    <sys:String x:Key="Icon.Maximize">&#xE90e;</sys:String>
+    <sys:String x:Key="Icon.Minimize">&#xE90f;</sys:String>
+    <sys:String x:Key="Icon.Movie">&#xE910;</sys:String>
+    <sys:String x:Key="Icon.Music">&#xE911;</sys:String>
+    <sys:String x:Key="Icon.News">&#xE912;</sys:String>
+    <sys:String x:Key="Icon.PastTVshow">&#xE913;</sys:String>
+    <sys:String x:Key="Icon.Pause">&#xE914;</sys:String>
+    <sys:String x:Key="Icon.Pin">&#xE915;</sys:String>
+    <sys:String x:Key="Icon.Play.Unfill">&#xE916;</sys:String>
+    <sys:String x:Key="Icon.Play.three">&#xE917;</sys:String>
+    <sys:String x:Key="Icon.Ratio">&#xE918;</sys:String>
+    <sys:String x:Key="Icon.Search">&#xE919;</sys:String>
+    <sys:String x:Key="Icon.Settings.UnFill">&#xE91a;</sys:String>
+    <sys:String x:Key="Icon.Settings.Fill">&#xE91b;</sys:String>
+    <sys:String x:Key="Icon.Sound.Half">&#xE91c;</sys:String>
+    <sys:String x:Key="Icon.Sound.Full">&#xE91d;</sys:String>
+    <sys:String x:Key="Icon.Sound.Off">&#xE91e;</sys:String>
+    <sys:String x:Key="Icon.Subtitles.UnFill">&#xE920;</sys:String>
+    <sys:String x:Key="Icon.Subtitles.Fill">&#xE91f;</sys:String>
+    <sys:String x:Key="Icon.Subtract">&#xE921;</sys:String>
+    <sys:String x:Key="Icon.TenSec.Right">&#xE922;</sys:String>
+    <sys:String x:Key="Icon.TenSec.Left">&#xE923;</sys:String>
+    <sys:String x:Key="Icon.Back">&#xE924;</sys:String>
+    <sys:String x:Key="Icon.Ball">&#xE925;</sys:String>
+    <sys:String x:Key="Icon.Category.Favorite">&#xE926;</sys:String>
+    <sys:String x:Key="Icon.Category.Live">&#xE927;</sys:String>
+    <sys:String x:Key="Icon.Check">&#xE928;</sys:String>
+    <sys:String x:Key="Icon.Child">&#xE929;</sys:String>
+    <sys:String x:Key="Icon.Clock">&#xE92a;</sys:String>
+    <sys:String x:Key="Icon.Cube">&#xE92b;</sys:String>
+    
+</ResourceDictionary>

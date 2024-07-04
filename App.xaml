@@ -1,0 +1,17 @@
+﻿<Application x:Class="LimePrac.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:LimePrac"
+			 xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             StartupUri="Views/MainWindow/MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <FontFamily x:Key="LimeIcons">pack://application:,,,/Fonts/#icomoon</FontFamily>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Resources/Dark.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Resources/IconFontDictionary.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/Resources/TypographyDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
